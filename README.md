@@ -20,10 +20,6 @@ The Sales Analysis project leverages Python libraries like Pandas, Seaborn, and 
 The primary aim is to analyze sales data, uncover trends, explore correlations between various factors and sales, and create predictive models for future sales based on historical data and holidays' impact.
 
 ## Dataset Overview
-### Files
-- `store.csv`: Includes details about each store like location, type, and assortment.
-- `train.csv`: Contains daily sales data with information about date, store, sales, customers, and promotional activities.
-- `merged_test.csv`: A merged dataset combining store information and sales data.
 
 ### Records and Features
 - `store.csv`: Store-related records with features such as Store ID, Store Type, Assortment, Competition Distance, etc.
