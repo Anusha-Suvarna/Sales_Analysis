@@ -66,7 +66,3 @@ Sales Analysis/
 
 ## Conclusion
 The Sales Analysis project provides valuable insights into sales trends and accurate sales predictions using historical data and holiday considerations. This analysis can aid in strategic decision-making regarding promotions, inventory management, and future planning for the stores.
-
----
-
-Feel free to add or modify any details based on specific project nuances or additional findings from the analysis!
